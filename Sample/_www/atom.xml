@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>tyler.io</title>
+  <link href="/"/>
+  <link rel="self" type="application/atom+xml" href="/feed/atom/"/>
+  <updated>2020-11-28T23:41:04+00:00</updated>
+  <author>
+    <name>Tyler Hall</name>
+  </author>
+  <id>/atom.xml</id>
+
+	  <entry>
+    <title>MailMate</title>
+    <link href="/mailmate/"/>
+    <id>/mailmate/</id>
+    <updated>2020-04-06T15:48:18+00:00</updated>
+    <summary type="html">&lt;p&gt;MailMate is a glorious, configurable, ultimate-nerd-dream of an email client built just for macOS. I use it every day in conjunction with Fastmail and SaneBox to give me email super powers.&lt;/p&gt;
+&lt;p&gt;But the killer feature? It just fucking works.&lt;/p&gt;
+&lt;p&gt;And believe me. I’ve tried every single email client for Mac and iOS – paid apps, free apps, subscription apps, apps from small companies, and apps from giant corporations.&lt;/p&gt;
+&lt;p&gt;I don’t know what else to say except that I love this app so much. And unless I’m horribly mistaken and there is secretly a giant corporation hiding behind MailMate and slurping up all of my private data, MailMate is built by a single developer, which is even more awe inspiring.&lt;/p&gt;
+</summary>
+	<content type="html">
+		&lt;p&gt;It took me a few days longer than I had hoped to get started, but here's the first post in a new &lt;a href=&quot;https://tyler.io/category/favorite-things/&quot;&gt;Favorite Things&lt;/a&gt; category celebrating &lt;a href=&quot;https://mobile.twitter.com/search?q=(%23IndieSupportWeeks)&quot;&gt;#IndieSupportWeeks&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;First up, is the incomparable &lt;a href=&quot;https://freron.com&quot;&gt;MailMate&lt;/a&gt; by &lt;a href=&quot;https://freron.com/about/&quot;&gt;Benny Kjær Nielsen&lt;/a&gt;. It's &amp;quot;the email client for the rest of us&amp;quot;.&lt;/p&gt;
+&lt;img src=&quot;https://freron.com/images/MailMate_1024.png&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;Anyone out there remember &lt;a href=&quot;https://inessential.com/2010/01/16/email_init&quot;&gt;Email init&lt;/a&gt;? Which then became &lt;a href=&quot;https://arstechnica.com/gadgets/2010/01/rage-against-the-mail-machine-the-genesis-of-letters/&quot;&gt;Letters.app&lt;/a&gt;? It was a project started by &lt;a href=&quot;https://inessential.com&quot;&gt;Brent&lt;/a&gt; in January 2010 to be&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;an email client that actually meets the needs of developers and professionals who rely on email, folks who type for a living.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If memory serves, and if Twitter would get their dumb act together and just show me &lt;a href=&quot;https://twitter.com/lettersapp/with_replies&quot;&gt;this timeline&lt;/a&gt; in damn-chronological-not-algorithm-optimized-order, it looks like &lt;a href=&quot;https://twitter.com/lettersapp/status/7997921706&quot;&gt;Gruber took over&lt;/a&gt; leading the project along with &lt;a href=&quot;http://shapeof.com&quot;&gt;Gus&lt;/a&gt; as technical lead. (And Brent being the honorary &lt;a href=&quot;https://twitter.com/lettersapp/status/8034935623&quot;&gt;drink-buying chairman&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;I'm not sure when exactly the project died. The &lt;a href=&quot;https://twitter.com/lettersapp/status/9553174156&quot;&gt;last tweet&lt;/a&gt; was February 23 of that same year. And the last real web mention about the project I've been able to find is Brent doing a mighty good deed by &lt;a href=&quot;https://inessential.com/2014/07/08/lettersapp_com_domain_auction_for_app_ca&quot;&gt;auctioning off the domain name&lt;/a&gt; for &lt;a href=&quot;https://appcamp4girls.com&quot;&gt;App Camp For Girls&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We can all dream about what could have been: a truly Mac-native email client for power users. Or, you could just use MailMate right now.&lt;/p&gt;
+&lt;p&gt;MailMate is a glorious, configurable, ultimate-nerd-dream of an email client built just for macOS. I first discovered it back in 2013 when Benny did an &lt;a href=&quot;https://www.indiegogo.com/projects/mailmate-2-0/&quot;&gt;Indiegogo campaign&lt;/a&gt; to fund full-time development of the app. I was more than happy to throw in for a license key of my own to help keep the project moving forward.&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/04/MailMateGogo.png&quot; width=&quot;2418&quot; height=&quot;2578&quot; /&gt;
+&lt;p&gt;I'm thrilled to say that six years later, MailMate is still going strong. I use it every day in conjunction with &lt;a href=&quot;https://tyler.io/switching-email-providers/&quot;&gt;Fastmail&lt;/a&gt; and &lt;a href=&quot;https://tyler.io/sanebox-review/&quot;&gt;SaneBox&lt;/a&gt; to give me email super powers.&lt;/p&gt;
+&lt;p&gt;Why is MailMate so great? A lot of folks I've recommended it to (ok, &lt;em&gt;forced upon&lt;/em&gt;, really) said &amp;quot;Eeeewwwww&amp;quot; when they tried it. And I'll be the first to admit it's not the prettiest app, but it does feel at home and serviceable on macOS. And then, of course, it does have a hell of a learning curve for an email client compared to most others. But the killer feature?&lt;/p&gt;
+&lt;p&gt;It just fucking works.&lt;/p&gt;
+&lt;p&gt;And &lt;em&gt;believe&lt;/em&gt; me. I've tried every single email client for Mac and iOS - paid apps, free apps, subscription apps, apps from small companies, and apps from giant corporations. There are exceptions, of course, but most are mediocre. Nice to look at, a few clever features maybe, but they all almost universally fall apart when dealing with 15+ years of emails unless they rely on a server-side component to do the bulk of the work. And in 2020, is asking a piece of software to handle a few gigs of text and a ridiculously complicated networking protocol really &lt;em&gt;that&lt;/em&gt; difficult?&lt;/p&gt;
+&lt;p&gt;Actually, yes, yes it is that difficult. I can attest to that based on the six months I lived off of &lt;a href=&quot;https://mobile.twitter.com/tylerhall/status/607711838030069760&quot;&gt;a disaster of an iOS email client I wrote and suffered through myself&lt;/a&gt;.&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/04/zero-email-twitter.jpg&quot; width=&quot;1188&quot; height=&quot;516&quot; /&gt;
+&lt;p&gt;So I have the utmost respect and amazement for just how incredible a job Benny has done with MailMate. In a single app, he has&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built the most &lt;em&gt;stable&lt;/em&gt; email client I've ever used&lt;/li&gt;
+&lt;li&gt;Built the &lt;em&gt;fastest&lt;/em&gt; email client I've ever used&lt;/li&gt;
+&lt;li&gt;Built the most &lt;em&gt;powerful&lt;/em&gt; email client I've ever used&lt;/li&gt;
+&lt;li&gt;Built the &lt;em&gt;nerdiest&lt;/em&gt; email client I've ever used&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you can just get past the initial configuration and learning curve and join the Religion of Plain Text Email Composition, you'll find a desktop email app that wipes the floor with the usual competition.&lt;/p&gt;
+&lt;p&gt;The whole modus operandi of MailMate is its use of smart folders / searches / filters / etc for reading your email and plain text for composing messages.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;MailMate only allows emails to be written using a plain text editor. It is important to understand that this is a feature of MailMate. It might even be its most defining feature.&lt;/p&gt;
+&lt;p&gt;Plain text is whatever text you can write with your keyboard. This means that you cannot visually emphasize words, create outlines, create links, and insert images within the text editor itself, for example, by clicking buttons. Instead, you can (optionally) use the simple Markdown syntax. This is then automatically converted by MailMate to HTML which is the (unofficial) standard for rich text emails. MailMate automatically shows you a preview of the email and this is what most recipients of your emails are going to see.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I’ve always been a nerd about the emails I write and have adamantly refused to send HTML email unless absolutely necessary. I totally understand the need for businesses (&lt;a href=&quot;https://clickontyler.com&quot;&gt;like mine&lt;/a&gt;) to send styled advertisements (I &lt;em&gt;hate&lt;/em&gt; it, but I get it), but for a normal person just &lt;em&gt;writing&lt;/em&gt; emails there’s no need. Plain text FTW.&lt;/p&gt;
+&lt;p&gt;As for smart mailboxes&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;MailMate encourages the use of so-called “smart” mailboxes. These are virtual mailboxes which show messages which belong to a specified set of mailboxes and which match some set of conditions. When handling a new message in the Inbox, the basic decision to make is whether it should be archived or trashed. The rest should be handled by smart mailboxes.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And those conditions can be layered on-top of one another and combined with &lt;a href=&quot;https://manual.mailmate-app.com/view&quot;&gt;powerful search strings&lt;/a&gt; to create the perfect smart mailbox that you refer to frequently or just to help find a long lost email from a decade ago. Just look at this beautiful example from the help manual:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;foo f !smith t (smith or joe)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This means:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Message contains “foo” and From does not contain “smith” and (To contains “smith” or “joe”)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;And as for searching and filtering by date, holy crap:&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/04/MailMateDates.png&quot; width=&quot;1446&quot; height=&quot;1314&quot; /&gt;
+&lt;p&gt;And just like best-of-breed Mac apps, MailMate supports a plethora of keyboard shortcuts that let you plow through and triage your email without reaching for the mouse. You can do the usual commands such as archive, flag, delete, mark as read, mark as junk, etc. But then you can also hit ⇧⌘M to bring up a filterable list of all your mailboxes and effortlessly move the current message (or messages). And ⌘T will similarly let you go to another mailbox.&lt;/p&gt;
+&lt;p&gt;And the keyboard shortcuts don’t stop there. You can also assign them to any of the plugins or 3rd party scripts you’ve installed.&lt;/p&gt;
+&lt;p&gt;Whoa, whoa, whoa. Did I just say &lt;em&gt;plugins and scripts&lt;/em&gt;? Yep, MailMate is wide open for you to run custom actions and perform tasks.&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/04/MailMateBundles.png&quot; width=&quot;1604&quot; height=&quot;1556&quot; /&gt;
+&lt;p&gt;I’ve installed plugins for sending emails to &lt;a href=&quot;https://www.omnigroup.com/omnifocus&quot;&gt;OmniFocus&lt;/a&gt; as new tasks, archiving into &lt;a href=&quot;https://www.devontechnologies.com/apps/devonthink&quot;&gt;DEVONthink&lt;/a&gt;, and editing replies with &lt;a href=&quot;https://macromates.com&quot;&gt;TextMate&lt;/a&gt;. I even wrote my own plugin that grabs the sender of the current email and opens a browser window showing me that customer’s order history and previous support requests in my backend system.&lt;/p&gt;
+&lt;p&gt;The final feature I’ll highlight is &lt;a href=&quot;https://manual.mailmate-app.com/preferences&quot;&gt;how customizable notifications are&lt;/a&gt;.&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/04/MailMateNotifications.png&quot; width=&quot;1284&quot; height=&quot;848&quot; /&gt;
+&lt;p&gt;For each mailbox (not just &lt;em&gt;account&lt;/em&gt;, but any &lt;em&gt;mailbox&lt;/em&gt;) you can decide to show a Notification Center alert, a count in the menu bar, or a Dock badge. MailMate supports showing four different dock badges at once (one per corner). You can also choose what information is shown in Notification Center alerts and pick a custom sound. Or any of those in any combination.&lt;/p&gt;
+&lt;p&gt;I don’t know what else to say except that I love this app so much. And unless I’m horribly mistaken and there is secretly a giant corporation hiding behind MailMate and slurping up all of my private data, MailMate is built by a single developer, which is even more awe inspiring.&lt;/p&gt;
+	</content>
+		<category term="macOS"/>
+		<category term="Reviews"/>
+		<category term="Apps"/>
+		<category term="Favorite Things"/>
+	  </entry>
+    <entry>
+    <title>April 5, 2020</title>
+    <link href="/april-5-2020/"/>
+    <id>/april-5-2020/</id>
+    <updated>2020-04-05T07:02:13+00:00</updated>
+    <summary type="html">&lt;p&gt;And when the other side is reached, I hope we can look back on the things we did and how we were feeling in this moment and learn from that.&lt;/p&gt;
+</summary>
+	<content type="html">
+		&lt;p&gt;I try to keep this blog on topic. That being &lt;a href=&quot;https://tyler.io/indie-mac-software-business/&quot;&gt;the business side of software development&lt;/a&gt;, or &lt;a href=&quot;https://tyler.io/productivity-and-omnifocus/&quot;&gt;productivity&lt;/a&gt;, or the various ways I try to bend macOS to fit &lt;a href=&quot;https://tyler.io/category/nerdery/&quot;&gt;my odd workflows&lt;/a&gt;, or just griping about technology in general. My assumption is I've been writing about those topics here for thirteen years, and those of you kind enough to spend a few minutes with me every week keep coming back because they overlap your interests, too.&lt;/p&gt;
+&lt;p&gt;So I do my best to keep other topics at bay - especially ones concerning the world outside our tech bubble. But at the same time, writing has always been therapeutic for me. It helps me organize my thoughts and stay centered. For the three or four hours I spend writing each week, the familiar pattern of brainstorm → write → edit → post → react lets me escape.&lt;/p&gt;
+&lt;p&gt;And we could all use an escape right now.&lt;/p&gt;
+&lt;p&gt;I've been working on a much larger piece recently. My working title for it is &lt;em&gt;American Virus&lt;/em&gt;. It's my take on the events shaping our new world in 2020, and why my country is attempting to out-America itself like never before. How my family is coping. How I see my friends (from a distance) dealing with life. And how technology blends into everything.&lt;/p&gt;
+&lt;p&gt;I don't know if I'll ever finish writing it or ever even post it. It just seems to get longer and longer each day as I think of more and more to add and document about this time period.&lt;/p&gt;
+&lt;p&gt;I think the most important thing is that I &lt;em&gt;am&lt;/em&gt; writing. Number one, it's good for me. And, number two, I think we should all be documenting our shared experiences. At some point in the future, it &lt;em&gt;will&lt;/em&gt; be over - in one way or another.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/All_Things_Must_Pass&quot;&gt;All things must pass&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And when the other side is reached, I hope we can look back on the things we did and how we were feeling in this moment and learn from that.&lt;/p&gt;
+&lt;p&gt;And so with no real conclusion in mind for a post that doesn't really fit with the things I normally write about, I'll just leave you with &lt;a href=&quot;https://pragmaticdad.net/2020/04/car-ride/&quot;&gt;a link to the place&lt;/a&gt; where I &lt;em&gt;do&lt;/em&gt; go to to write about stuff not made of ones and zeroes.&lt;/p&gt;
+&lt;p&gt;Stay safe, and be kind.&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/04/IMG_0285-scaled.jpeg&quot; width=&quot;2560&quot; height=&quot;1920&quot; /&gt;
+	</content>
+		<category term="Personal"/>
+	  </entry>
+    <entry>
+    <title>#IndieSupportWeeks</title>
+    <link href="/indiesupportweeks/"/>
+    <id>/indiesupportweeks/</id>
+    <updated>2020-04-01T05:14:13+00:00</updated>
+    <summary type="html">&lt;p&gt;With all that’s going on in the world, it may not surprise folks to learn that small developers are starting to feel the economic crunch along with everyone else. I hope you’ll stick around and read along as I go into excruciating detail about my favorite software and services that I can’t live without.&lt;/p&gt;
+</summary>
+	<content type="html">
+		&lt;p&gt;With all that’s going on in the world, it may not surprise folks to learn that small developers are starting to feel the economic crunch along with everyone else. In an email exchange I had earlier today, another owner of an indie software company told me:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It’s been an awful couple of months.  [The city] is mostly locked down until May 4th.  My kids look like they are going to be home for the foreseeable future. Their schools have gone full remote learning. So far, [my company] is weathering the storm.  We have been giving out a few more complimentary extensions and refunds.  But we have always given that to anyone that asks so it’s hard to see the change. How are you doing?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Their sentiments go on to echo what I’ve heard both publicly and privately from other folks in our little world of apps and services. I’m extraordinarily lucky that I have a full-time job (for now?) in addition to &lt;a href=&quot;https://clickontyler.com&quot;&gt;my app business&lt;/a&gt;. Don’t get me wrong - my app sales sure as hell help a whole lot, but I’m in a much better position to come out the other side of all this in one piece than folks who truly do depend on the whims of consumers for their 70% App Store cut.&lt;/p&gt;
+&lt;p&gt;And, as usual, &lt;a href=&quot;https://www.swiftbysundell.com/special/indie-support-weeks/&quot;&gt;John Sundell continues the be the nicest guy online&lt;/a&gt;. He has decided...&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;...that I wanted to do something for our community’s indies.&lt;/p&gt;
+&lt;p&gt;Normally, this site (and all of my other work) is funded by sponsorships — through non-tracking, privacy-focused (and JavaScript-free) ads that I run on a weekly basis. But for the next two weeks there will be no ads on this site. Instead, each day, I’ll promote a new indie app whose developer has been financially impacted by the current pandemic. For free, with no strings attached.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;He’s taken it a step further than his own blog and started &lt;a href=&quot;https://github.com/JohnSundell/indiesupportweeks&quot;&gt;a GitHub project to coordinate the effort&lt;/a&gt;. The project has a growing list of folks helping out to promote our favorite indie apps. It’s a wonderful idea, and I’ve started brainstorming my own list of must-have apps from independent developers that I can’t wait to write about in the coming days and weeks.&lt;/p&gt;
+&lt;p&gt;I hope you’ll stick around and read along as I go into excruciating detail about &lt;a href=&quot;https://tyler.io/category/favorite-things/&quot;&gt;my favorite software and services that I can’t live without&lt;/a&gt;.&lt;/p&gt;
+	</content>
+		<category term="Favorite Things"/>
+	  </entry>
+    <entry>
+    <title>So, uh, I think Catalina 10.15.4 Broke SSH?</title>
+    <link href="/so-uh-i-think-catalina-10154-broke-ssh/"/>
+    <id>/so-uh-i-think-catalina-10154-broke-ssh/</id>
+    <updated>2020-03-31T04:12:33+00:00</updated>
+    <summary type="html">&lt;p&gt;I was completely at my wit’s end and feeling like I had lost my mind until about a half hour ago. And I don’t know what difference connecting via a hostname versus an IP address would make when specifically using a non-standard port above a certain threshold. I’m not even going to go into it. I don’t want to end up on Hacker News again bitching about Catalina. I just hope I’ve stuffed this post with enough keywords so that anyone else searching on Google might come across the answer.&lt;/p&gt;
+</summary>
+	<content type="html">
+		&lt;p&gt;I was completely at my wit’s end and feeling like I had lost my mind until about a half hour ago. Let me start from the beginning...&lt;/p&gt;
+&lt;p&gt;I don’t have an exact date, but within the last week I realized that I was unable to &lt;code&gt;ssh&lt;/code&gt; into my primary web server - the one that runs my &lt;a href=&quot;https://clickontyler.com&quot;&gt;business website&lt;/a&gt;, activation server, etc. It’s sort of the linchpin for my tiny software company. When it goes down, I get worried.&lt;/p&gt;
+&lt;p&gt;At first I thought maybe the server was down? I hadn’t received any alerts, so I did a quick check. And, yes, it was still up and running and serving web traffic. Ok, did &lt;code&gt;sshd&lt;/code&gt; somehow become unresponsive? I login through the &lt;a href=&quot;https://www.linode.com&quot;&gt;Linode&lt;/a&gt; control panel and restart the service. Still can’t login.&lt;/p&gt;
+&lt;p&gt;It’s odd. I don’t get a connection refused. Not even a timeout. It just...hangs.&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/ssh1.png&quot; width=&quot;1241&quot; height=&quot;311&quot; /&gt;
+&lt;p&gt;That’s the &lt;code&gt;ssh&lt;/code&gt; output with the verbose flag. Nothing. I waited 10+ minutes and it never timed out or produced any other output.&lt;/p&gt;
+&lt;p&gt;I reboot the server itself and the problem persists.&lt;/p&gt;
+&lt;p&gt;Then, I notice some more oddities. I’m able to connect using &lt;a href=&quot;https://binarynights.com&quot;&gt;ForkLift&lt;/a&gt; - my FTP client, which connects via SFTP. Also, &lt;a href=&quot;http://sequelpro.com&quot;&gt;SequelPro&lt;/a&gt; is able to connect to MySQL via &lt;code&gt;ssh&lt;/code&gt; as well.&lt;/p&gt;
+&lt;p&gt;And then things get even stranger. This is all happening on my iMac. I try connecting from my laptop, and it works. My MacBook Pro is at home right next to my iMac, which is refusing to login. They’re both on the same wifi and thus the same IP. So, it can’t be that my home IP address got mistakenly banned somehow.&lt;/p&gt;
+&lt;p&gt;Next, I &lt;code&gt;ssh&lt;/code&gt; into a different server and then hop to the problematic one. It connects without any trouble. At this point I’m thinking maybe the permissions on my local private key got screwed up. So, I blow away &lt;code&gt;~/.ssh&lt;/code&gt; and recreate all of my keys from a backup. Still can’t login.&lt;/p&gt;
+&lt;p&gt;Ok. I think about it for a few minutes and then - aha! - I have an Ubuntu virtual machine running on this iMac inside &lt;a href=&quot;https://www.parallels.com&quot;&gt;Parallels&lt;/a&gt;. I’ll &lt;code&gt;ssh&lt;/code&gt; into it and then try and connect. That will rule out if there’s just something odd about my iMac’s LAN IP. (To be clear, my home network is perfectly ordinary. Just a cable modem and a router.) So, I login to the VM, try and connect, and it works fine.&lt;/p&gt;
+&lt;p&gt;At this point here’s what I’ve found:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My iMac is the only machine that cannot login.&lt;/li&gt;
+&lt;li&gt;I’ve connected successfully from behind the same public IP using a laptop, a virtual machine, &lt;em&gt;and&lt;/em&gt; my iPhone and iPad.&lt;/li&gt;
+&lt;li&gt;I’ve verified my &lt;code&gt;ssh&lt;/code&gt; keys are correct and have the appropriate permissions.&lt;/li&gt;
+&lt;li&gt;I &lt;em&gt;can&lt;/em&gt; connect to other servers from the problematic machine - both at the same hosting provider (Linode) and others (AWS and DigitalOcean).&lt;/li&gt;
+&lt;li&gt;I &lt;em&gt;can&lt;/em&gt; connect from my iMac if I jump through any other server, first.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I start trying to think what could possibly be different about this one machine. And then it dawns on me. This all started around the time I updated my iMac to 10.15.4. My laptop is still on 10.15.3 - and, of course, the virtual machine isn’t macOS at all.&lt;/p&gt;
+&lt;p&gt;Totally grasping for straws I google for “10.15.4 ssh” and find &lt;a href=&quot;https://discussions.apple.com/thread/251226509&quot;&gt;this top result&lt;/a&gt; on the Apple discussion forums:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Catalina 10.15.4 SSH port &amp;gt; 8192 does not work when using server name instead of IP&lt;/p&gt;
+&lt;p&gt;This issue started just after upgrading to macOS Catalina 10.15.4.&lt;/p&gt;
+&lt;p&gt;After that update I am no longer able to open a SSH connection to a port greater than 8192 using server name (instead of IP). Yes, I do change the port on the server side prior to every test.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That can’t possibly be real?&lt;/p&gt;
+&lt;p&gt;Up until this point, I was connecting via a saved hostname defined in my &lt;code&gt;~/.ssh/config&lt;/code&gt;, which let me login simply by tying &lt;code&gt;ssh some-server&lt;/code&gt;. So, I tried &lt;code&gt;ssh ip-address -p9944&lt;/code&gt; and it worked! (That server runs on an alternate &lt;code&gt;ssh&lt;/code&gt; port.)&lt;/p&gt;
+&lt;p&gt;Ok. Time to narrow this down a bit further. I changed the server to listen on standard port 22 and tried connecting via the hostname once again.&lt;/p&gt;
+&lt;p&gt;Holy crap, it worked.&lt;/p&gt;
+&lt;p&gt;The user in the Apple forums was right. At least in my case, my one server that happened to be running on a non-standard &lt;code&gt;ssh&lt;/code&gt; port above 8192 will not connect from Catalina 10.15.4 when using the hostname instead of the IP address.&lt;/p&gt;
+&lt;p&gt;Just to verify, I boot up a Mojave and Catalina (10.15.3) VM on the same iMac. They both connect fine, while the host machine continues to fail.&lt;/p&gt;
+&lt;p&gt;The internals of this is all so incredibly above my head I have no idea what the underlying problem might be. Am I and this one other forum poster just doing something totally bizarre yet the same? This &lt;code&gt;ssh&lt;/code&gt; setup has been working for &lt;em&gt;years&lt;/em&gt; for me until just the last week. I would love to be proven wrong and told I’m an idiot. But I don’t know what difference connecting via the hostname versus the IP address would make when specifically using a non-standard port above a certain threshold.&lt;/p&gt;
+&lt;p&gt;It just....&lt;em&gt;sigh&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I’m not even going to go into it. I don’t want to end up on Hacker News again bitching about Catalina. I just hope I’ve stuffed this post with enough keywords so that anyone else searching on Google might come across the answer.&lt;/p&gt;
+	</content>
+		<category term="macOS"/>
+		<category term="Server"/>
+	  </entry>
+    <entry>
+    <title>A Quick Shell Script to Keep a LAN File Server Mounted All the Time</title>
+    <link href="/a-quick-shell-script-to-keep-a-lan-file-server-mounted-all-the-time/"/>
+    <id>/a-quick-shell-script-to-keep-a-lan-file-server-mounted-all-the-time/</id>
+    <updated>2020-03-25T15:02:26+00:00</updated>
+    <summary type="html">&lt;p&gt;Now that we're all stuck at home practicing social distancing, my children's mood depends on their favorite TV shows and movies always being available during their iPad free time. And my sanity depends on not hearing the awful clicking noise of the external drive our video library is stored on while I'm working at my desk. Moving it to a networked file server running off a Raspberry Pi was simple enough and solved the problem. But after trying a few 3rd party apps to keep the network share always mounted, here's the simple shell script I wrote instead.&lt;/p&gt;
+</summary>
+	<content type="html">
+		&lt;p&gt;Backstory: All of my family’s movies and TV shows are streamed to our Apple TVs and my kids iPads using &lt;a href=&quot;https://www.plex.tv&quot;&gt;Plex&lt;/a&gt; (unless they come from one of the streaming services). If you have young children, it is not acceptable for the internet to blip out, slow down, or for a favorite movie to be pulled due to licensing issues between international billionaires, so having a locally, always available copy is critical.&lt;/p&gt;
+&lt;p&gt;My setup has stayed pretty consistent the last few years. I keep Plex running on my iMac Pro, which is great because it’s always awake and online. Even better, it can handle multiple transcoding sessions without breaking a sweat. So even if both my kids are watching something on their devices and my wife on the TV, I can be working in Xcode and not even notice the iMac doing anything different. It works so well, in fact, that I even invited our parents and siblings to our Plex account so they can watch our library remotely.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;only&lt;/em&gt; downside to this setup is that all this content is stored on an 8TB external drive hanging off the back of the iMac. And that’s fine, except...it’s &lt;em&gt;loud&lt;/em&gt;. We’re talking late 90s beige tower clicking hard drive loud. The noise hasn’t been an issue previously because my kids’ movie watching and my time at my desk only overlapped on the weekends. But now that schools are closed and the world is working from home, I can hear it chewing through data all damn day.&lt;/p&gt;
+&lt;p&gt;We don’t have a NAS and I don’t really want to buy or deal with one. So, I bought my first &lt;a href=&quot;https://www.raspberrypi.org&quot;&gt;Raspberry Pi&lt;/a&gt;, &lt;a href=&quot;https://pimylifeup.com/raspberry-pi-samba/&quot;&gt;installed Samba&lt;/a&gt;, and moved it and the noisy drive inside a bookcase next to the router. And because it’s hardwired and not going over wifi, LAN bandwidth isn’t an issue as the videos round trip from Plex on my iMac, to the Pi, then back to Plex, then to whatever device is being watched. &lt;em&gt;Yeeesh&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;But all that video and music being available to Plex requires macOS not lose the connection to the file server. You can make a share automatically mount at startup by dragging it to your user’s login items in System Preferences, but that doesn’t help if the connection randomly drops.&lt;/p&gt;
+&lt;p&gt;I found a few 3rd party solutions to keep network shares mounted - I paid for and gave &lt;a href=&quot;https://automounter.app&quot;&gt;this one&lt;/a&gt; a try. It’s really nice! But at the end of the day that’s just one more app running in the background I didn’t want - two, if you count the extra &lt;a href=&quot;https://automounter.app/helper/&quot;&gt;helper app&lt;/a&gt; you have to install so it can work around macOS’s sandboxing restrictions. (Not the developer’s fault.)&lt;/p&gt;
+&lt;p&gt;Anyway, I thought about it for a few minutes and realized I should have just written my own script to start with. Here’s &lt;a href=&quot;https://gist.github.com/tylerhall/1ac0b787d1b7966fcf8bf554a13d42e5&quot;&gt;the literal two lines of &lt;code&gt;bash&lt;/code&gt; I ended up writing&lt;/a&gt;:&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/tylerhall/1ac0b787d1b7966fcf8bf554a13d42e5.js&quot;&gt;&lt;/script&gt;
+&lt;p&gt;That checks to see if the share is mounted (if the directory for it exists) and, if not, mounts it.&lt;/p&gt;
+&lt;p&gt;Throw that in a &lt;code&gt;cron&lt;/code&gt; job every minute or so and 💥. Here's a quick recording of me manually ejecting the share and then having it immediately come back online:&lt;/p&gt;
+&lt;img src=&quot;https://tyler.io/wp-content/uploads/2020/03/samba-eject-mount.gif&quot; alt=&quot;&quot; width=&quot;150&quot; height=&quot;150&quot; class=&quot;alignnone size-thumbnail &quot; /&gt;
+&lt;p&gt;For me, though, I transitioned to running all of my background jobs using &lt;a href=&quot;https://www.launchd.info&quot;&gt;&lt;code&gt;launchd&lt;/code&gt;&lt;/a&gt; instead of &lt;code&gt;cron&lt;/code&gt; a few years ago. It would be way too complicated to maintain all those &lt;code&gt;.plist&lt;/code&gt;s by hand, so I use &lt;a href=&quot;https://www.soma-zone.com/LaunchControl/&quot;&gt;LaunchControl&lt;/a&gt; to do it for me instead. Seriously, it’s fantastic. Go buy it.&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/Screen-Shot-2020-03-25-at-10.30.25-AM.png&quot; width=&quot;2534&quot; height=&quot;1952&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;https://gist.github.com/tylerhall/3140d820dbde8e02cb272584879d0656&quot;&gt;Here’s the plist&lt;/a&gt; if you’d like to add a similar &lt;code&gt;launchd&lt;/code&gt; job:&lt;/p&gt;
+&lt;script src=&quot;https://gist.github.com/tylerhall/3140d820dbde8e02cb272584879d0656.js&quot;&gt;&lt;/script&gt;
+	</content>
+		<category term="macOS"/>
+		<category term="Nerdery"/>
+		<category term="Bash / Shell Script"/>
+	  </entry>
+    <entry>
+    <title>Spotish for macOS</title>
+    <link href="/spotish-for-macos/"/>
+    <id>/spotish-for-macos/</id>
+    <updated>2020-03-25T05:19:33+00:00</updated>
+    <summary type="html">&lt;p&gt;Spotish is a dead-simple Mac menu bar app for Spotify – there are many like it, but this one is mine. Here’s why.&lt;/p&gt;
+</summary>
+	<content type="html">
+		&lt;p&gt;I know I &lt;a href=&quot;https://tyler.io/rebudget/&quot;&gt;keep&lt;/a&gt; &lt;a href=&quot;https://tyler.io/three-things-today/&quot;&gt;referring&lt;/a&gt; to &lt;a href=&quot;https://twitter.com/tylerhall/status/1220804819667111941&quot;&gt;this tweet of mine from last year&lt;/a&gt;...&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/bespoke-tweet-1.png&quot; width=&quot;1125&quot; height=&quot;812&quot; /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;One day I will get around to either releasing or open sourcing the dozen or so bespoke, one-off Mac apps I’ve built just for myself.&lt;/p&gt;
+&lt;p&gt;Today is not that day.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The reason for that is because I really do have a backlog of random, one-off Mac apps that I’ve built over the years just for myself. Most of them are small utilities that do a very specific thing that make my life easier. While &lt;a href=&quot;https://www.patreon.com/tylerhall&quot;&gt;others are more ambitious&lt;/a&gt;. In any case, it’s another week, we’re all stuck inside, so here’s another app that I built two years ago.&lt;/p&gt;
+&lt;p&gt;It’s called &lt;a href=&quot;https://gum.co/UoYGv&quot;&gt;Spotish&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It’s a dead-simple and slightly dumb Mac menu bar app for Spotify - there are many like it, but this one is mine. Here’s why.&lt;/p&gt;
+&lt;p&gt;I’ve probably tried a dozen open source, free, and/or inexpensive Spotify “mini players” - many of them on the Mac App Store. But I’m picky, and none of them behaved exactly the way I wanted. Here’s what I’m after...&lt;/p&gt;
+&lt;p&gt;I hardly ever listen to &lt;em&gt;my&lt;/em&gt; music with Spotify or any other streaming service. The music I care about - my collection of 40,000 mp3s dating back to CDs I ripped in high school and have since carried across twenty different computers - are all stored on a file server at home and available wherever I am via &lt;a href=&quot;https://www.plex.tv&quot;&gt;Plex&lt;/a&gt; or &lt;a href=&quot;https://prism-music.app&quot;&gt;Prism&lt;/a&gt;. If I’m listening to &lt;em&gt;my&lt;/em&gt; music, I know exactly what’s playing at any given moment. I’m sure you do, too. There’s no surprises.&lt;/p&gt;
+&lt;p&gt;But I use Spotify, and &lt;a href=&quot;https://tyler.io/missing-rdio-and-making-the-best-of-apple-music-with-shortcuts/&quot;&gt;previously Rdio and Apple Music&lt;/a&gt;, for &lt;em&gt;discovery&lt;/em&gt;. I’m constantly streaming playlists of recommended artists and albums I’ve never heard before - always listening for something new.&lt;/p&gt;
+&lt;p&gt;Given that finding something new and amazing is my number one reason for using any streaming service, I’m constantly pausing what I’m doing and breaking my flow to quickly glance and see what I’m listening to. And nowadays there is. So. Much. Friction. just to see what is currently playing.&lt;/p&gt;
+&lt;p&gt;Every music service uses their own awful website disguised as a desktop app. Even on my iMac Pro - and &lt;em&gt;especially&lt;/em&gt; on an underpowered laptop - checking the current track feels equivalent to launching Creative Suite in the 2000s. I just want to see the song title - not launch a entire instance of Chromium.&lt;/p&gt;
+&lt;p&gt;So, for a long time I used various 3rd party apps to keep a floating window of artwork on my desktop. Some were really nice. But they were always a pain in the ass to reveal. I’d typically have to ⌘-tab through twenty open apps just to bring it to the front. And it always bothered my obsessive compulsive nature having an extra window cluttering up my screen when I prefer to only have windows belonging to the current task visible. (Yes, I’m crazy.)&lt;/p&gt;
+&lt;p&gt;Anyway, like any good developer who practices &lt;a href=&quot;https://mobile.twitter.com/tylerhall/status/1139962457995251712&quot;&gt;Hate Driven Development&lt;/a&gt;, I decided to build a Spotify mini player that behaves exactly how I want. Here’s a screenshot:&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/spotish-bar1.jpeg&quot; width=&quot;1501&quot; height=&quot;183&quot; /&gt;
+&lt;p&gt;Everything I want to know - right there in the menu bar...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Artist&lt;/li&gt;
+&lt;li&gt;Album title&lt;/li&gt;
+&lt;li&gt;Song title&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yes, the text is nearly incomprehensibly tiny, but I dig it. It crams all the pertinent info into a small space and it makes me happy because I can glance up the menu bar at any time no matter what I’m doing or what context I’m in.&lt;/p&gt;
+&lt;p&gt;But if that font makes your eyes bleed (I get it), you can add/remove song items in any combination. So, just the artist and album names?&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/spotish-bar2.jpeg&quot; width=&quot;1501&quot; height=&quot;183&quot; /&gt;
+&lt;p&gt;Or just the song title?&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/spotish-bar3.jpeg&quot; width=&quot;1501&quot; height=&quot;183&quot; /&gt;
+&lt;p&gt;Spotish does some other nice things, too, besides just displaying the song info. The background animates to show the song’s progress...&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/spotish-progreses.gif&quot; width=&quot;1304&quot; height=&quot;174&quot; /&gt;
+&lt;p&gt;Click to view the album artwork...&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/spotish-artwork.jpeg&quot; width=&quot;1501&quot; height=&quot;782&quot; /&gt;
+&lt;p&gt;Clicking the image will launch Spotify and display the song in the context of its album.&lt;/p&gt;
+&lt;p&gt;Or, you can control-click (right click) the menu bar item to play / pause Spotify directly.&lt;/p&gt;
+&lt;p&gt;And, of course, there’s a few preferences to tweak to your liking...&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/spotish-prefs.png&quot; width=&quot;1104&quot; height=&quot;868&quot; /&gt;
+&lt;p&gt;But my favorite feature? The one that really makes my geek gears turn? Spotish integrates with &lt;a href=&quot;https://getdrafts.com&quot;&gt;Drafts.app&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Shift-click on the menu bar item and Spotish will create a new draft in Drafts with all of the current song’s info as well as a shareable link to its page on spotify.com&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/spotish-drafts.2020-03-25-00_26_57.gif&quot; width=&quot;600&quot; height=&quot;548&quot; /&gt;
+&lt;p&gt;It’s a fast and completely frictionless way for me to bookmark or remember songs I want to take a closer look at later. (Yes, Spotify lets you ❤️ songs. And you could always add it to a “Listen To” playlist. But this is faster for me and fits my personal workflow better as I often want to &lt;em&gt;do something&lt;/em&gt; with the song’s info as opposed to merely just liking it.)&lt;/p&gt;
+&lt;h2&gt;🎵 🎉&lt;/h2&gt;
+&lt;p&gt;So, that’s &lt;a href=&quot;https://gum.co/UoYGv&quot;&gt;Spotish&lt;/a&gt;. I love having it in my menu bar. Maybe you will, too?&lt;/p&gt;
+&lt;p&gt;If you’d like to give it a spin, I’m trying something new. &lt;a href=&quot;https://gum.co/UoYGv&quot;&gt;Pay-what-you-want&lt;/a&gt; and you’ll get a download link in your email as well as future app updates.&lt;/p&gt;
+&lt;p&gt;One dollar? Works for me.&lt;/p&gt;
+&lt;p&gt;$1,337? That’d be cool, too.&lt;/p&gt;
+&lt;p&gt;Whatever amount you’d like to contribute to Spotish’s future development, if you’re not happy, just let me know and I’ll refund your purchase.&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+&lt;script src=&quot;https://gumroad.com/js/gumroad.js&quot;&gt;&lt;/script&gt;
+&lt;a class=&quot;gumroad-button&quot; href=&quot;https://gum.co/UoYGv&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Buy Spotish Now&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Questions? Comments? Feedback? &lt;a href=&quot;https://tyler.io/about/&quot;&gt;I'd love to hear it&lt;/a&gt;.&lt;/p&gt;
+	</content>
+		<category term="Drafts.app"/>
+		<category term="macOS Development"/>
+		<category term="Click On Tyler"/>
+	  </entry>
+    <entry>
+    <title>Three Things Today</title>
+    <link href="/three-things-today/"/>
+    <id>/three-things-today/</id>
+    <updated>2020-03-20T05:38:25+00:00</updated>
+    <summary type="html">&lt;p&gt;Every task management app has a feature that will let you postpone, delay, or snooze a task. You can tell them to push a todo item out by a day or a week, etc. But I like to think Three Things is smarter than that. It's designed to be flexible and forgiving - pragmatic and realistic. When you defer a task, it won’t accidentally reschedule it for a day that’s already overflowing with commitments. It literally will not allow you to schedule more than three tasks per day.&lt;/p&gt;
+&lt;p&gt;It fits my brain. Maybe it’ll fit yours, too.&lt;/p&gt;
+</summary>
+	<content type="html">
+		&lt;p&gt;&lt;a href=&quot;https://tyler.io/default-app-for-mac-ios/&quot;&gt;Last week&lt;/a&gt; I joked that I made a new app, but it turned out just to be an open source version of &lt;a href=&quot;https://github.com/tylerhall/DefaultApp&quot;&gt;the template project I start most of my Mac apps from&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This week I'm not joking.&lt;/p&gt;
+&lt;p&gt;And it all stems from &lt;a href=&quot;https://twitter.com/tylerhall/status/1220804819667111941&quot;&gt;a tweet I posted&lt;/a&gt; earlier this year:&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/bespoke-tweet.png&quot; width=&quot;1125&quot; height=&quot;812&quot; /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;One day I will get around to either releasing or open sourcing the dozen or so bespoke, one-off Mac apps I've built just for myself.&lt;/p&gt;
+&lt;p&gt;Today is not that day.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That's where &lt;a href=&quot;https://tyler.io/rebudget/&quot;&gt;Rebudget&lt;/a&gt; came from. It's an app I built just for myself, and then &lt;a href=&quot;https://clickontyler.com/rebudget/&quot;&gt;decided to release&lt;/a&gt; because I thought others might find it helpful.&lt;/p&gt;
+&lt;p&gt;The app I'm announcing today is in the same vein: a one-trick pony that serves a very specific purpose - it fills a need I personally have. So I built it, have been using it, and I'm now putting it out there.&lt;/p&gt;
+&lt;p&gt;It's called &lt;em&gt;Three Things Today&lt;/em&gt;.&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/three-things-app-icon.png&quot; width=&quot;512&quot; height=&quot;512&quot; /&gt;
+&lt;p&gt;That's it's full name. Mostly, I just refer to it as &lt;em&gt;Three Things&lt;/em&gt;. It's a blend of an extraordinarily simple task manager plus calendar that follows &lt;a href=&quot;https://tyler.io/one-concrete-action/&quot;&gt;my main rule for staying productive&lt;/a&gt;, which &lt;a href=&quot;https://red-sweater.com&quot;&gt;Daniel&lt;/a&gt; &lt;a href=&quot;https://twitter.com/danielpunkass/status/1116116743464914944&quot;&gt;summarized recently&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Never underestimate the healing power of taking even one small step when you're under that terrible weight of &amp;quot;too many tasks to handle.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Let me be clear: this &lt;em&gt;does not&lt;/em&gt; replace my beloved &lt;a href=&quot;https://tyler.io/productivity-and-omnifocus/&quot;&gt;OmniFocus&lt;/a&gt; or &lt;a href=&quot;https://flexibits.com/fantastical&quot;&gt;Fantastical&lt;/a&gt;. That’s not its purpose. &lt;em&gt;Three Things&lt;/em&gt; supplements those other apps. It's what I use to plan my days and weeks at a level above the nitty gritty details that OmniFocus handles, but not quite as high up as what you might call your &amp;quot;life goals&amp;quot;.&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/three-things-ss1.png&quot; width=&quot;1737&quot; height=&quot;1400&quot; /&gt;
+&lt;h2&gt;My System&lt;/h2&gt;
+&lt;p&gt;Feel free to skip ahead to the details about the app below, but it'll probably make more sense if you stick with me just a bit longer so I can explain how I personally get things done and how &lt;em&gt;Three Things&lt;/em&gt; helps.&lt;/p&gt;
+&lt;p&gt;Every day, amidst the usual responsibilities of two young kids, chores at home, finding five minutes to actually talk to my wife, bug reports and dev work from my day job, etc., my goal is to accomplish three things. Sometimes even just two. Maybe.&lt;/p&gt;
+&lt;p&gt;They don't have to be anything seriously big, time consuming, or significant. Just three things that move forward whatever current projects or goals I'm focusing on. Often times they'll be related to &lt;a href=&quot;https://clickontyler.com&quot;&gt;my software business&lt;/a&gt; or other freelance work. Other times it might be an errand that I've been putting off or some skunkworks development I want to do for my day job.&lt;/p&gt;
+&lt;p&gt;But if I can go to bed at night knowing that along with the chaos of a career, family, and every day life, I did something &lt;em&gt;else&lt;/em&gt;, I'll feel good.&lt;/p&gt;
+&lt;p&gt;So, I plan out my days - usually seven to ten days in advance - each with the two or three tasks I hope to accomplish. Basically, this splits each day into thirds. I try to do one thing in the morning, another around lunch, and one more after work. Often times, though, I'll get busy and wind up taking care of stuff after everyone else has gone to bed.&lt;/p&gt;
+&lt;p&gt;The point of this system isn't to be rigid. It's not a todo list with hard deadlines. More than anything else it’s flexible and &lt;em&gt;forgiving&lt;/em&gt;. It lets me look ahead into the near future and see what's on the horizon, and, more importantly, know if I'm over committed. Knowing that I can do at most three things each day - usually just two - and having everything stacked up in front of me day-by-day is illuminating.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.macsparky.com/about&quot;&gt;David Sparks&lt;/a&gt; has &lt;a href=&quot;https://www.macsparky.com/blog/2018/2/the-hyper-scheduling-experiment&quot;&gt;written&lt;/a&gt; &lt;a href=&quot;https://www.macsparky.com/blog/2018/3/hyper-scheduling-feedback&quot;&gt;extensively&lt;/a&gt; &lt;a href=&quot;https://learn.macsparky.com/courses/shortcuts13/lectures/11588365&quot;&gt;about&lt;/a&gt; &lt;a href=&quot;https://www.macsparky.com/blog/2019/2/hyper-scheduling-without-making-yourself-crazy&quot;&gt;his move to block (née, hyper) scheduling&lt;/a&gt;. This is a similar system - my own take on it that just happens to use a bespoke Mac (and iOS?) app molded around my workflow. Oh, and to steal a quote from David just so we’re all on the same page about this type of system:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I’ve received lots of affirmation from readers that have been doing this in some form or another for years and ask me, in one way or another, “What took you so long?” Some folks call it block scheduling, others call it fancier things like value-based time management. I'm certainly not the first guy to this party, and I find that comforting.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Three Things.app&lt;/h2&gt;
+&lt;p&gt;So what is &lt;em&gt;Three Things&lt;/em&gt;? Well, it’s a calendar that lets you schedule tasks on each day. It’s meant to be excruciatingly pragmatic and realistic about how life works. (At least my life.) It literally will not allow you to schedule more than three tasks per day.&lt;/p&gt;
+&lt;p&gt;And that’s very important and also the point of this system. I already have over a decade’s worth of habits, workflows, and actions in OmniFocus using various combinations of defer and due dates to keep me on track. &lt;em&gt;Three Thigns&lt;/em&gt; lets me plan and schedule my near-term road ahead and enforces restrictions that make sure I don’t overbook myself. And that’s why it’s &lt;em&gt;pragmatic&lt;/em&gt;. I built it knowing that even on my best of days, I’m at most going to have the time and energy to do three things on top of the rest of life’s commitments.&lt;/p&gt;
+&lt;p&gt;I also intentionally described the app as &lt;em&gt;realistic&lt;/em&gt;. That’s the other key feature of the app. I know (and &lt;em&gt;Three Things&lt;/em&gt; knows) that life happens. That &lt;em&gt;shit&lt;/em&gt; happens. Some tasks will take longer than I expect. And some days a fire will break out at work and I’ll have time for nothing else. And yet other days I just won’t be feeling it and would rather take a mental vacation. So, I do.&lt;/p&gt;
+&lt;p&gt;On those days, &lt;em&gt;Three Things&lt;/em&gt; has your back because of two magical menu items:&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/three-things-defer-menu.png&quot; width=&quot;838&quot; height=&quot;311&quot; /&gt;
+&lt;p&gt;If a task just didn’t get done or you skipped it - hit ⌘D and &lt;em&gt;Three Things&lt;/em&gt; will automatically move it to your next available slot in the future.&lt;/p&gt;
+&lt;p&gt;Every task management app has a feature that will let you postpone, delay, or snooze a task. You can tell them to push a todo item out by a day or a week, etc. But I like to think &lt;em&gt;Three Things&lt;/em&gt; is smarter than that. Because the app knows that you can only do two or three things a day - and because it enforces that rule - the app knows when you do and do not have time available. So when you defer a task, it won’t accidentally reschedule it for a day that’s already overflowing with commitments. Instead, it smartly places it on a day that’s free.&lt;/p&gt;
+&lt;p&gt;But what about that “Defer All Tasks” menu item? Glad you asked.&lt;/p&gt;
+&lt;p&gt;Assuming you’ve scheduled your tasks in a mostly chronological order in which they need to be accomplished, then simply postponing one of them can delay others. I don’t want to get too far into the weeds of making one task depend strictly on another, but as an example: I often schedule out large app features I’m working on in bite sized pieces across a number of days. If you know how software development works, then you’ll know that you can’t normally just rearrange the order of those tasks.&lt;/p&gt;
+&lt;p&gt;So, with &lt;em&gt;Three Things&lt;/em&gt;, when you defer all your tasks, the app will take all incomplete items scheduled today and in the future, and push them all ahead by one day.&lt;/p&gt;
+&lt;p&gt;But!&lt;/p&gt;
+&lt;p&gt;Some tasks really are due on a specific day. Again, I’m not trying to make this app a full-blow task management solution. I already have OmniFocus for that. But, each task can optionally be marked as deferrable or not.&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/three-things-defer.gif&quot; width=&quot;599&quot; height=&quot;396&quot; /&gt;
+&lt;p&gt;If a task can’t be deferred, i.e., if it truly is due on a specific date, then when you defer everything else, all of you other items will flow around your scheduled tasks as appropriate. Your fixed-date commitments will stay put and the app will assume everything else is flexible and rescheduled them appropriately.&lt;/p&gt;
+&lt;p&gt;The way it works for me is before I shut down for the day (or sometimes before I get started the next morning), if there’s anything that didn’t get taken care of, I can &lt;em&gt;defer all&lt;/em&gt; and &lt;em&gt;Three Things&lt;/em&gt; fixes my schedule for me.&lt;/p&gt;
+&lt;h2&gt;I know what you’re about to ask: Why not just use a calendar you weirdo?&lt;/h2&gt;
+&lt;p&gt;Because that’s for things that have a scheduled time or hard due date. Because calendars are &lt;em&gt;sacred&lt;/em&gt; ground that shan’t be fucked with or else they become meaningless. I’ve attempted to put my higher-level tasks onto a separate calendar alongside my real appointments, but it’s always too fiddly. Calendar apps are great at being calendars. But they’re almost universally lousy when it comes to todo lists. And in my case it’s even worse because the things I’m throwing at them don’t really belong on a specific date and don’t fall into the Reminders.app bucket either.&lt;/p&gt;
+&lt;p&gt;And dedicated task management apps are built for the individual items and low-level details of what needs to be done and in what order, etc.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Three Things&lt;/em&gt; isn’t either of those. It’s also not a project management app or a bug tracker. It’s not a Kanban board or a backlog.&lt;/p&gt;
+&lt;p&gt;By and large, everything I put into it is flexible and malleable. Its contents can mostly be shifted around, delayed, and rescheduled without consequence. I primarily use it to see how booked I am and to break down larger chunks of work into manageable pieces that could still themselves contain smaller actions.&lt;/p&gt;
+&lt;p&gt;Basically, it fits my brain. Maybe it’ll fit yours, too.&lt;/p&gt;
+&lt;h2&gt;Current status of Three Things&lt;/h2&gt;
+&lt;p&gt;I’m making &lt;em&gt;Three Things&lt;/em&gt; available today for anyone to download and use. For now, the app is completely free. And that’s because while the app works, it still lacks polish, may or may not contain horrible-awful bugs, and is still missing a few small features I want to add before calling it one-point-oh.&lt;/p&gt;
+&lt;p&gt;Specifically, the app is missing the ability to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reorder tasks within a day. The plumbing and UI work is done - as you’ll see when you drag tasks from one day to another - but when you drop a task onto another day, it just positions it after any existing items on that day.&lt;/li&gt;
+&lt;li&gt;Assigning colors to tasks. Currently, all tasks are the same shade of blue.&lt;/li&gt;
+&lt;li&gt;An iOS version. I 100% plan on making an iOS companion app - especially because I want that for myself. No ETA on that yet.&lt;/li&gt;
+&lt;li&gt;Other random UI niceties and polish.&lt;/li&gt;
+&lt;li&gt;Data export. I have no intention of locking away your data in a proprietary format. The app will absolutely support importing/exporting everything as JSON and/or possibly a standard calendar feed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Things that do work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mostly everything involving the day to day use of the app. You should be able to schedule new tasks, drag them to other days, mark them complete, and defer them. If any of that feels broken or I missed an edge case, I’d love to know.&lt;/li&gt;
+&lt;li&gt;iCloud sync! Yep, everything will stay in sync across all of your Macs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also, assuming at least one other person besides myself expresses interest in this app, I do plan on charging for it eventually. I’m not yet sure if it will be paid up-front with a free trial or some type of basic version with an in-app purchase to unlock extra features. I’d appreciate feedback on this.&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://clickontyler.com/three-things/download/&quot;&gt;Download Three Things&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://clickontyler.com/three-things/download/&quot;&gt;Have at it&lt;/a&gt;. I’d absolutely love to hear any and all feedback you have. Bugs. Feature requests. Even if you just want to tell me this is the dumbest app idea ever. Please, &lt;a href=&quot;https://tyler.io/about/&quot;&gt;feel free to reach out here&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/tylerhall/&quot;&gt;@tylerhall&lt;/a&gt;.&lt;/p&gt;
+	</content>
+		<category term="Productivity"/>
+		<category term="OmniFocus"/>
+		<category term="Indie Business"/>
+		<category term="macOS Development"/>
+		<category term="Click On Tyler"/>
+	  </entry>
+    <entry>
+    <title>The Stack View is a Liar</title>
+    <link href="/the-stack-view-is-a-liar/"/>
+    <id>/the-stack-view-is-a-liar/</id>
+    <updated>2020-03-17T03:36:27+00:00</updated>
+    <summary type="html">&lt;p&gt;...Firing up Xcode’s wonderful view debugger, however, completely blew my mind and shattered any remaining self-confidence I had as an app developer. And then nearly an hour later I’m really questioning everything I thought I knew about ones and zeroes until a google search leads me to this page. And, sure enough, my bug is spelled out right there.&lt;/p&gt;
+</summary>
+	<content type="html">
+		&lt;p&gt;Today I lost about four hours debugging what I thought was a bizarre bug due to my own ignorance. Now, I don’t want to be too hard on myself  - no one can be an expert in every nook and cranny of a tech stack as large as AppKit. But, still, this one &lt;em&gt;really&lt;/em&gt; knocked me on my butt when I realized my mistake.&lt;/p&gt;
+&lt;p&gt;Tonight I tweeted &lt;a href=&quot;https://twitter.com/tylerhall/status/1239734350532546565&quot;&gt;this&lt;/a&gt;...&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In today's exciting episode of Tyler is a Professional Software Developer™...&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/stackview-commit.jpg&quot; width=&quot;1344&quot; height=&quot;216&quot; /&gt;
+&lt;p&gt;The bug I was running into happened when I dragged an &lt;code&gt;NSTextField&lt;/code&gt; out of an &lt;code&gt;NSStackView&lt;/code&gt; and dropped it elsewhere in the window. In the gif below you’ll see that after the drop completes, the &lt;code&gt;NSTextField&lt;/code&gt; lingers behind - continuing to duplicate each time I drag  and drop it.&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/stackview-drag1.2020-03-16-22_14_06.gif&quot; width=&quot;450&quot; height=&quot;373&quot; /&gt;
+&lt;p&gt;Note: Only the &lt;em&gt;original&lt;/em&gt; &lt;code&gt;NSTextField&lt;/code&gt; is draggable. The copies left behind don’t accept mouse events.&lt;/p&gt;
+&lt;p&gt;So, I start debugging this. My first thought is there’s some sort of race condition happening because when I drop the &lt;code&gt;NSTextField&lt;/code&gt;, the change persists to my Core Data stack - which does the usual &lt;code&gt;NSManagedObjectContext&lt;/code&gt; merge dance and then posts a notification letting the other views in the window know there’s new data and they should refresh. (I don’t know if that’s the proper way to do it, but it’s how I approached it in this situation.)&lt;/p&gt;
+&lt;p&gt;That notification → refresh isn’t necessarily anything crazy or complex, but once the change finishes persisting to Core Data, my CloudKit code picks up the new data and pushes it up to the customer’s iCloud account. I don’t just do a push to CloudKit, though. The data model for this app is very, very tiny. So, I’m saving myself some added complexity and just doing an actual two-way sync each time. And, of course, when the sync completes - 💥 - my views are told to reload any additional changes from the sync session.&lt;/p&gt;
+&lt;p&gt;I’ve messed up code like this plenty of times before and I’m hoping my first instinct is correct and I’m somehow maybe adding an extra copy of the &lt;code&gt;NSTextField&lt;/code&gt; twice to the &lt;code&gt;NSStackView&lt;/code&gt;?&lt;/p&gt;
+&lt;p&gt;Here’s the pertinent code. It removes any existing tasks from the &lt;code&gt;NStackView&lt;/code&gt; and then loops through the new data adding a view for each item back into the stack view.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;        monthDayView.clearTasks()
+        for t in tasks {
+            let taskView = t.taskView()
+            monthDayView.stackView.addArrangedSubview(taskView)
+        }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Heres’ the implementation for &lt;code&gt;clearTasks()&lt;/code&gt; above:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    func clearTasks() {
+        for view in stackView.arrangedSubviews {
+            stackView.removeArrangedSubview(view)
+        }
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;(For the seasoned &lt;code&gt;NSStackView&lt;/code&gt; readers out there who can already see the bug in my code, please hold your laughter while I explain the next frustrating hour of my evening in excruciating detail...)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Seems safe enough, right? But still, my eyes don’t lie. There’s clearly a duplicate &lt;code&gt;NSTextField&lt;/code&gt; hanging around. Let’s dig deeper.&lt;/p&gt;
+&lt;p&gt;I start with the app in this state:&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/stackview-bug-count.png&quot; width=&quot;2240&quot; height=&quot;1844&quot; /&gt;
+&lt;p&gt;I add this debugging code to confirm if the stack views really do or do not have the number of arranged views I’m expecting:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;print(monthDayView.stackView.arrangedSubviews.count)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In the screenshot above, March 18 is the “real” item, and the other three are the weird zombie copies. For each of those views, the above debugging code gives me these results:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;March, 18: &lt;code&gt;1 views&lt;/code&gt; &lt;em&gt;OK!&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;March, 10: &lt;code&gt;0 views&lt;/code&gt; &lt;em&gt;wtf?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;March, 16: &lt;code&gt;0 views&lt;/code&gt; 💩&lt;/li&gt;
+&lt;li&gt;March, 24: &lt;code&gt;0 views&lt;/code&gt; 🥃&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Um? That seems...wrong? Those extra views are clearly still there.&lt;/p&gt;
+&lt;p&gt;Firing up Xcode’s wonderful view debugger, however, completely blew my mind and shattered any remaining self-confidence I had as an app developer...&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/threethings-view-debug-scaled.jpeg&quot; width=&quot;2560&quot; height=&quot;1880&quot; /&gt;
+&lt;p&gt;There's not just &lt;em&gt;one&lt;/em&gt; extra &lt;code&gt;NSTextField&lt;/code&gt; hanging about. There. Are. &lt;em&gt;Thirty&lt;/em&gt;. Of them.&lt;/p&gt;
+&lt;p&gt;Clearly at this point I am missing something incredibly obvious and foundational about the situation and frameworks in order for my (I think) relatively simple code to be breaking this badly. Let’s start from first principles and re-read the documentation.&lt;/p&gt;
+&lt;p&gt;Relatively speaking, &lt;code&gt;NSStackView&lt;/code&gt;  is a newish part of AppKit. It’s only been around since Mac OS X (&lt;em&gt;not&lt;/em&gt; macOS) 10.9 Mavericks. Regardless, in the seven years since then, I haven’t ever really used it &lt;em&gt;that&lt;/em&gt; often. I know it’s there and a nice tool to have available, but I’m just not super familiar with it. And as you’ll soon see, even less so than I thought.&lt;/p&gt;
+&lt;p&gt;I’m reading through Apple’s documentation in Xcode and I finally stumble upon &lt;code&gt;removeArrangedSubview(_:)&lt;/code&gt;...&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/stackview-docs.png&quot; width=&quot;2356&quot; height=&quot;1406&quot; /&gt;
+&lt;p&gt;I think &lt;em&gt;that’s strange for a seven year old API, but ok&lt;/em&gt; and keep browsing.&lt;/p&gt;
+&lt;p&gt;Nearly an hour later I’m really questioning everything I thought I knew about ones and zeroes until a google search leads me to &lt;a href=&quot;https://www.hackingwithswift.com/read/31/4/removing-views-from-a-uistackview-with-removearrangedsubview&quot;&gt;this page&lt;/a&gt;. And, sure enough, my bug is spelled out right there:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;However, using &lt;code&gt;removeArrangedSubview()&lt;/code&gt; &lt;strong&gt;doesn’t&lt;/strong&gt; remove the view altogether – it keeps the view in memory, which is helpful if you plan to re-add it later on because you can avoid recreating it. Here, though, we actually want to remove the web view and destroy it entirely, and that can be done with a call to &lt;code&gt;removeFromSuperview()&lt;/code&gt; instead.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Holleeee crap. I never knew stack views worked that way. (Thanks, &lt;a href=&quot;https://twitter.com/twostraws&quot;&gt;Paul&lt;/a&gt;!) I mean, wow. That is a very basic misunderstanding on my part. So, I add one additional line of code:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    func clearTasks() {
+        for view in stackView.arrangedSubviews {
+            stackView.removeArrangedSubview(view)
+            view.removeFromSuperview()
+        }
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;and 💥 it works. Not only does it work, but it also fixes a number of other peripheral bugs that I had logged but not investigated yet.&lt;/p&gt;
+&lt;p&gt;Anyway, I hope this excessively long post has enough keywords stuffed into it so that anyone else facing the same problem can find it.&lt;/p&gt;
+&lt;p&gt;But, last point. Why didn’t Apple’s documentation mention this very important detail? More so, why isn’t that method documented &lt;em&gt;at all&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;Ha, well. Turns out, they &lt;em&gt;did&lt;/em&gt; document it. My empty screenshot above is from Xcode’s documentation browser. However, if you go to &lt;a href=&quot;https://developer.apple.com/documentation/appkit/nsstackview/1488925-removearrangedsubview&quot;&gt;the same documentation on the developer website&lt;/a&gt; you’ll see...&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/stackview-web-docs.png&quot; width=&quot;2504&quot; height=&quot;2138&quot; /&gt;
+&lt;p&gt;Well played, Apple.&lt;/p&gt;
+	</content>
+		<category term="Xcode"/>
+		<category term="Programming"/>
+		<category term="macOS Development"/>
+	  </entry>
+    <entry>
+    <title>DefaultApp</title>
+    <link href="/default-app-for-mac-ios/"/>
+    <id>/default-app-for-mac-ios/</id>
+    <updated>2020-03-14T14:41:09+00:00</updated>
+    <summary type="html">&lt;p&gt;DefaultApp is an open source starting point – a template. I maintained it in Objective-C for over a decade before finally porting it to Swift in 2018. Anytime I start a new app – big or small, whether or not it’s something I plan on releasing publicly or if it’s just a small prototype or utility app I’m building for myself – I start with this project.&lt;/p&gt;
+&lt;p&gt;With DefaultApp I can go from initial idea to writing actual code in thirty seconds.&lt;/p&gt;
+&lt;p&gt;That said, I would't use this as the basis for a billion dollar corporation’s enterprise app. Or with a team of “100 engineers” “solving hard problems”. But if you’re a one-person development shop or a team of just two or three engineers building a typical macOS shoebox or document based app? Please take a look.&lt;/p&gt;
+</summary>
+	<content type="html">
+		&lt;p&gt;So, I made a new app. Sort of. It's called &lt;a href=&quot;https://github.com/tylerhall/DefaultApp&quot;&gt;&lt;em&gt;DefaultApp&lt;/em&gt;&lt;/a&gt;, and here it is...&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/defaultapp-mwc.png&quot; width=&quot;1700&quot; height=&quot;1322&quot; /&gt;
+&lt;p&gt;Very minimalist, right? Here's a screenshot of the Preferences and About windows...&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full&quot; src=&quot;http://tyler.vhx.cloud:8080/wp-content/uploads/2020/03/defaultapp-prefs-about.png&quot; width=&quot;2275&quot; height=&quot;1334&quot; /&gt;
+&lt;p&gt;And that's the whole app. It's not something you can actually use or do anything with. Instead, it's an app you can build something new &lt;em&gt;with&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/tylerhall/DefaultApp&quot;&gt;&lt;em&gt;DefaultApp&lt;/em&gt; is an open source starting point&lt;/a&gt; - a template. I maintained it in Objective-C for over a decade before finally porting it to Swift in 2018. Anytime I start a new app - big or small, whether or not it's something I plan on releasing publicly or if it's just a small prototype or utility app I'm building for myself - I start with this project.&lt;/p&gt;
+&lt;p&gt;I very much build software in fits and spurts while running off the adrenaline of a new idea. And if I just want to quickly try out an idea, the time from &lt;code&gt;Xcode → New Project&lt;/code&gt; to getting all my usual settings and dependencies in place to where I can actually &lt;em&gt;start&lt;/em&gt; working on whatever I have in mind is thirty minutes full of friction, busy work, and me cursing myself every time I screw up some dumb little configuration detail. And when my brain is running at a thousand miles per hour thinking about the possibilities of what I want to build, that half hour of just getting to the point where I can get started is excruciating and a motivation killer.&lt;/p&gt;
+&lt;p&gt;But with &lt;em&gt;DefaultApp&lt;/em&gt; I can go from initial idea to writing actual code in thirty &lt;em&gt;seconds&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Every major web framework has a &lt;a href=&quot;https://create-react-app.dev&quot;&gt;project&lt;/a&gt; &lt;a href=&quot;https://guides.rubyonrails.org/getting_started.html#creating-the-blog-application&quot;&gt;like&lt;/a&gt; &lt;a href=&quot;https://expressjs.com/en/starter/generator.html&quot;&gt;this&lt;/a&gt; already. This is nothing new. &lt;em&gt;DefaultApp&lt;/em&gt; is basically a glorified &amp;quot;Hello World&amp;quot; project but with my own highly-opinionated choices and foundational level code snippets included to help get things moving quickly.&lt;/p&gt;
+&lt;p&gt;You can read the details of the project in the &lt;a href=&quot;https://github.com/tylerhall/DefaultApp/blob/master/README.md&quot;&gt;README&lt;/a&gt;, but here's the &lt;a href=&quot;https://www.urbandictionary.com/define.php?term=TLDR&quot;&gt;tl;dr&lt;/a&gt; of what's included:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It builds a native macOS app targeting 10.14 Mojave and 10.15 Catalina.&lt;/li&gt;
+&lt;li&gt;A hardened-runtime target ready for Notarization and designed to be distributed directly to your customers.&lt;/li&gt;
+&lt;li&gt;A second, duplicate target that is Sandboxed and ready for distribution via the Mac App Store.&lt;/li&gt;
+&lt;li&gt;Conditional build flags that let you differentiate between debug and production builds as well as Mac App Store and direct to consumer builds.&lt;/li&gt;
+&lt;li&gt;It also builds an iOS companion app target for iOS 13 with shared code between the two platforms.&lt;/li&gt;
+&lt;li&gt;Default &lt;code&gt;NSWindowController&lt;/code&gt;s for a primary app window and Preferences window are wired up and ready to go. They're also built using &lt;code&gt;xib&lt;/code&gt;s because storyboards on macOS are dumb.&lt;/li&gt;
+&lt;li&gt;The app is &lt;a href=&quot;https://en.wikipedia.org/wiki/AppleScript&quot;&gt;&lt;code&gt;AppleScript&lt;/code&gt;&lt;/a&gt; enabled by default and includes a sample &lt;a href=&quot;https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/AboutScriptingTerminology.html&quot;&gt;&lt;code&gt;.sdef&lt;/code&gt;&lt;/a&gt; scripting dictionary because you can pry &lt;code&gt;AppleScript&lt;/code&gt; support out of my cold, dead hands.&lt;/li&gt;
+&lt;li&gt;Two &lt;a href=&quot;https://github.com/tylerhall/DefaultApp/blob/master/macOS/Models/Outlines/OutlineItem.swift&quot;&gt;helper&lt;/a&gt; &lt;a href=&quot;https://github.com/tylerhall/DefaultApp/blob/master/macOS/Models/Outlines/RootItem.swift&quot;&gt;classes&lt;/a&gt; that make building a typical &lt;a href=&quot;https://developer.apple.com/documentation/appkit/cocoa_bindings/navigating_hierarchical_data_using_outline_and_split_views?language=objc&quot;&gt;macOS source list&lt;/a&gt; easy.&lt;/li&gt;
+&lt;li&gt;A few &lt;a href=&quot;https://github.com/tylerhall/DefaultApp/tree/master/macOS/UI&quot;&gt;common controls and &lt;code&gt;NSView&lt;/code&gt; subclasses&lt;/a&gt; that I find myself using in nearly every project.&lt;/li&gt;
+&lt;li&gt;Sane Xcode defaults for settings such as &lt;a href=&quot;https://developer.apple.com/documentation/bundleresources/information_property_list/nsapptransportsecurity?language=objc&quot;&gt;enabling insecure HTTP requests in web views&lt;/a&gt; but not in the rest of the app and also making the project compatible with &lt;a href=&quot;https://developer.apple.com/library/archive/qa/qa1827/_index.html&quot;&gt;&lt;code&gt;agvtool&lt;/code&gt;&lt;/a&gt;. Little things such as those that are helpful but nearly impossible to google unless you know what you don't know.&lt;/li&gt;
+&lt;li&gt;Pre-configured to &lt;a href=&quot;https://sparkle-project.org&quot;&gt;check for app updates with Sparkle&lt;/a&gt;. (And in the Mac App Store target, Sparkle is completely removed to appease the App Review gods.)&lt;/li&gt;
+&lt;li&gt;A fair amount of other miscellaneous code and helper &lt;code&gt;extension&lt;/code&gt;s that always come up and no one wants to write from scratch each time.&lt;/li&gt;
+&lt;li&gt;Pre-written &lt;a href=&quot;https://github.com/tylerhall/DefaultApp/blob/master/Podfile&quot;&gt;&lt;code&gt;Podfile&lt;/code&gt;&lt;/a&gt; and &lt;a href=&quot;https://github.com/tylerhall/DefaultApp/blob/master/Cartfile&quot;&gt;&lt;code&gt;Cartfile&lt;/code&gt;&lt;/a&gt;s that include the usual open source libraries I include in all of my projects. (I would have migrated to the Swift Package Manager instead, but not everything is available through it yet.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As I said above, the default settings and choices made in this project are my own &lt;em&gt;highly opinionated&lt;/em&gt; way of doing things. And I'm well aware I approach things differently than other developers. As a solo dev running &lt;a href=&quot;https://clickontyler.com&quot;&gt;my own company&lt;/a&gt;, my highest priorities are being pragmatic and efficient. So I make use of tools that allow me to move the fastest regardless of whether or not they're in vogue. I lean on open source projects that are reliable and cost effective for a small (no, tiny) software business.&lt;/p&gt;
+&lt;p&gt;My most popular GitHub repo is &lt;a href=&quot;https://github.com/tylerhall/simple-php-framework&quot;&gt;the Simple PHP Framework&lt;/a&gt;. It contains code dating back to 2005 that was organically gathered and grouped together into a &lt;em&gt;foundation&lt;/em&gt; that I still use to this day to build all of my websites with. Would I use it to build a giant online storefront or a complex backend API? Maybe? It's certainly been used in those situations before. But it's really aimed at single developers or small teams who want to get shit done fast and with minimal fuss.&lt;/p&gt;
+&lt;p&gt;I view &lt;em&gt;DefaultApp&lt;/em&gt; as my equivalent project for macOS development. While it certainly works for me and serves as the basis for all of my apps, I don't know yet if it will work well for others the way my PHP framework has over the years. I guess what I'm saying is don't use this as the basis for a billion dollar corporation's enterprise app. Or with a team of &amp;quot;&lt;a href=&quot;https://engineering.fb.com/data-infrastructure/messenger/&quot;&gt;100 engineers&lt;/a&gt;&amp;quot; &amp;quot;solving hard problems&amp;quot;.&lt;/p&gt;
+&lt;p&gt;But if you're a one-person development shop or a team of just two or three engineers building a typical macOS shoebox or document based app? Please take a look. Or, if you're just getting your feet wet in Mac development and want to see how someone who's had moderate success† on the platform structures a new project, you might find it helpful - particularly the three classes related to implementing an &lt;code&gt;NSOutlineView&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;(†Sorry, that line just sounds so &lt;em&gt;arrogant&lt;/em&gt; when I read it, but I'm not sure how else to put it. I've been writing Mac apps for seventeen years now, and despite my many (probably) unorthodox development practices, I &lt;em&gt;ship&lt;/em&gt; consistently and earn a decent income. My 21 year-old self would never have believed I'd even reach the point I'm at now. Before I finally found &lt;a href=&quot;https://books.google.com/books/about/Cocoa_Programming_for_Mac_OS_X.html?id=b8baAAAAMAAJ&quot;&gt;the Hillegass book&lt;/a&gt; on a bottom shelf in &lt;a href=&quot;https://twitter.com/TonyBeast1957/status/1229408752828239873&quot;&gt;Barnes &amp;amp; Noble&lt;/a&gt; in 2004, 2003 Tyler would have killed for an example project like this. Native Mac apps feel like a dying breed that are succumbing to &lt;a href=&quot;https://twitter.com/neilsardesai/status/1130534027939725312&quot;&gt;janky web views&lt;/a&gt; and (mostly) awful Catalyst ports. If &lt;em&gt;DefaultApp&lt;/em&gt; can help just one developer new to the platform get started, then I'll be ecstatic.)&lt;/p&gt;
+&lt;p&gt;Anyway, this is the first release of &lt;em&gt;DefaultApp&lt;/em&gt;. I've got more old projects I've yet to comb through for other useful snippets to include, but this is nonetheless a good starting point for when you're building a simple to moderately complex Mac app or just want to create a quick prototype.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tyler.io/about/&quot;&gt;Feedback&lt;/a&gt;, &lt;a href=&quot;https://github.com/tylerhall/DefaultApp/pulls&quot;&gt;pull requests&lt;/a&gt;, &lt;a href=&quot;https://github.com/tylerhall/DefaultApp/issues&quot;&gt;etc&lt;/a&gt;. are very much welcome as always.&lt;/p&gt;
+	</content>
+		<category term="Xcode"/>
+		<category term="Indie Business"/>
+		<category term="Open Source"/>
+		<category term="iOS Development"/>
+		<category term="macOS Development"/>
+	  </entry>
+    <entry>
+    <title>Followup: Comparing my Current B2 Storage Costs against Amazon S3 Glacier Deep Archive</title>
+    <link href="/followup-comparing-my-current-b2-storage-costs-against-amazon-s3-glacier-deep-archive/"/>
+    <id>/followup-comparing-my-current-b2-storage-costs-against-amazon-s3-glacier-deep-archive/</id>
+    <updated>2020-03-07T16:29:58+00:00</updated>
+    <summary type="html">&lt;p&gt;This is a quick followup to my post from this week about backing up my family’s photos and home videos with Google Photos and B2. A reader asked why I use B2 over Amazon's cheaper S3 Glacier alternative. I started to reply directly, but then like everything I write, it kept growing. And then I thought my answer might be interesting to others as well. So, here you go...&lt;/p&gt;
+</summary>
+	<content type="html">
+		&lt;p&gt;This is a quick followup to my post from this week about &lt;a href=&quot;https://tyler.io/my-familys-photo-and-video-library-backup-strategy-in-2020/&quot;&gt;backing up my family's photos and home videos with Google Photos and B2&lt;/a&gt;. A reader sent me the following question this morning:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nice article on photos backup! Have you considered amazon S3 glacier instead of B2? It should be cheaper and work with Arq , can I ask why you prefer B2?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I started to reply directly, but then like everything I write, it kept growing. And then I thought my answer might be interesting to others as well. So, here you go...&lt;/p&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hey. Glad you enjoyed the post. I've looked into &lt;a href=&quot;https://aws.amazon.com/glacier/&quot;&gt;Glacier&lt;/a&gt; previously, but stick with B2 for a few reasons. Just specifically talking about my photos/videos (not my actual computer backups which I do use &lt;a href=&quot;https://www.arqbackup.com&quot;&gt;Arq&lt;/a&gt; for)...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.backblaze.com/b2/cloud-storage.html&quot;&gt;B2&lt;/a&gt; currently costs me $5/month. &lt;a href=&quot;https://aws.amazon.com/blogs/aws/new-amazon-s3-storage-class-glacier-deep-archive/&quot;&gt;Glacier Deep Archive&lt;/a&gt; would be $1.80/month just for the storage.&lt;/p&gt;
+&lt;p&gt;However, assuming I'm doing &lt;a href=&quot;https://calculator.s3.amazonaws.com/index.html&quot;&gt;Amazon's complicated pricing math&lt;/a&gt; correctly, in the event of a full recovery, getting all of my data out of B2 would be $10. But a restore from Glacier would be $90.&lt;/p&gt;
+&lt;p&gt;Do I expect to need to get all that data out very often? If ever? Hopefully not. And with my local backup and the fact the Google truly is super reliable despite me being paranoid, I haven't ever had to restore a single photo or video from B2 yet. It's purely my disaster recovery fallback.&lt;/p&gt;
+&lt;p&gt;So, in theory. It would cost an extra $80 to restore out of Glacier, but be $3.20 cheaper per month for storage. $80 / $3.20 means I could do a full restore once every two years and break even compared to B2. And if I never did do a restore, I'd save $76 over the course of those two years.&lt;/p&gt;
+&lt;p&gt;So now that I'm doing the math again, maybe Glacier &lt;em&gt;is&lt;/em&gt; something to look into long-term as my storage needs keep rising. But, thankfully, I'm very fortunate that an extra $3/month doesn't bother me enough to invest the time into migrating and figuring out an alternative to &lt;a href=&quot;https://www.backblaze.com/b2/docs/quick_command_line.html&quot;&gt;B2's easy to use command line sync tool&lt;/a&gt;. Does &lt;a href=&quot;https://s3tools.org/s3cmd&quot;&gt;s3cmd&lt;/a&gt; offer similar functionality? Maybe? I've never looked to see if it does syncing. &lt;em&gt;Update: &lt;a href=&quot;https://s3tools.org/s3cmd-sync&quot;&gt;Yep, it does&lt;/a&gt;. Nice.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Anyway, given all of the above and also your initial mention about how Arq would work with S3/Glacier, I do want to point out that I'm not using Arq for my photos and videos.&lt;/p&gt;
+&lt;p&gt;I do use Arq to backup my computers because I love having a way to restore specific versions of my files. And Arq's restore UI works terrifically. It's &lt;a href=&quot;https://tyler.io/gone/&quot;&gt;saved my butt&lt;/a&gt; a number of times.&lt;/p&gt;
+&lt;p&gt;Also, because of bandwidth constraints, I can't actually use Arq for my giant, monthly photo and video backup job. Arq is a Mac app - so I'd have to run it at home behind my Comcast connection, which has terrible upload speeds. Sure, it'd be doable. But it's way, way faster to go datacenter to datacenter, which means I need to use a different tool.&lt;/p&gt;
+&lt;p&gt;Speaking of which, as I said above, I've never needed to restore my photos from B2 yet. But I do frequently grab old files (sometimes 100s of GB) with Arq. That sort of access with Glacier isn't cost effective - B2 is way cheaper. Also, B2 gives me instant access to my files whereas Glacier might require waiting 12 hours.&lt;/p&gt;
+&lt;p&gt;Anyway, that's my calculus. I don't ever really foresee moving away from Arq + B2 unless Arq is discontinued or an even cheaper B2 competitor appears. But as my family archives keep growing and eventually cross into multiple TB, I may need to reconsider Glacier.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Note: If I totally screwed up the Glacier pricing, I'd love to hear about it. I estimated the costs of archiving and restoring a flat 1TB.&lt;/em&gt;&lt;/p&gt;
+	</content>
+		<category term="Backups"/>
+		<category term="Amazon Web Services"/>
+		<category term="Photography"/>
+	  </entry>
+  
+</feed>

@@ -164,3 +164,20 @@ Take a look at the [sample templates](https://github.com/tylerhall/Roland-sample
 ## Feedback, Suggestions, Bug Reports, Pull Requests, and all that good stuff...
 
 ...is very much encouraged and appreciated. Feel free to open issues in this repo or [contact me directly](https://tyler.io/about/).
+
+
+## Sample
+
+To create the sample:
+
+    swift run roland -c Sample/config.plist -o Sample/_www
+
+To run the sample:
+
+    docker run --rm -it -p 8080:80 -v `pwd`/Sample/_www:/usr/share/nginx/html nginx
+
+To run a file system watcher:
+
+    fswatch Sample/_pages Sample/_posts Sample/_templates | xargs -n1 -I{} swift run roland -c Sample/config.plist -o Sample/_www
+
+    fswatch -o Sample/ -o roland/ | xargs -n1 -I{} swift run roland -c Sample/config.plist -o Sample/_www
